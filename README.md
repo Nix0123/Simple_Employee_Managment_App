@@ -3,10 +3,10 @@ This project was for a learning concept which implemented "Enterprise Java Appli
 Following is the description of the project, along with necessary info on deploying it:
 
 IMPLEMENTED ON: Apache Netbeans IDE 24.
-SERVER USED: Tomcat-10
-Database ON: XAMPP LocatHost MySQL
+SERVER USED: Tomcat-10.
+Database ON: XAMPP LocatHost MySQL.
 
-# Requirments before implemwntation: 
+# Requirments before implementation: 
 
 1. Create a database named "employeeDB" contaning a table named "employees" with the following schema:-
     -id Primary	int(11)	AUTO_INCREMENT	
