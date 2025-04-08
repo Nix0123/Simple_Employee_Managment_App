@@ -1,4 +1,4 @@
-# PLEASE READ READ.MD IN CODE FORMATE FOR BETTER UNDERSTANDING
+# PLEASE READ READ.MD IN CODE FORMAT FOR BETTER UNDERSTANDING
 
 This project was for a learning concept which implemented "Enterprise Java Application" with Maven, Hibernate, Servlet and DAO files. 
 
