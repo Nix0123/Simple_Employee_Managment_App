@@ -1,4 +1,4 @@
-# PLEASE OPEN README.MD IN CODE FORMAT FOR CLEAR UNDRSTANDING. 
+
 
 This project was for a learning concept which implemented "Enterprise Java Application" with Maven, Hibernate, Servlet and DAO files. 
 
