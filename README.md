@@ -24,6 +24,7 @@ through a clean web interface with admin authentication.
 | Architecture | MVC + DAO Pattern |
 
 ## 📁 Project Structure
+```
 EmployeeManagementApp/
 ├── src/
 │   └── main/
@@ -52,6 +53,7 @@ EmployeeManagementApp/
 │           ├── deleteEmployee.jsp
 │           └── editEmployee.jsp
 └── pom.xml
+```
 
 ## ⚙️ Setup & Installation
 
